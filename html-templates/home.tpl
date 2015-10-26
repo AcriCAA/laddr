@@ -12,8 +12,8 @@
        
         <div class="caption">
            
-            <p>{Laddr::$siteSlogan|escape}</p>
-            <p>
+            <p class="text-center">{Laddr::$siteSlogan|escape}</p>
+            <p class="text-center">
                 <a href="{tif $.User ? '/projects' : '/register'}" class="btn btn-primary">{_ "Start Hacking"}</a>
                 <small>or <a href="/mission">{_ "Learn More"}&hellip;</a></small>
             </p>
