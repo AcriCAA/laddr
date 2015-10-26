@@ -9,8 +9,8 @@
     {$dwoo.parent}
 
     <div class="hero-unit">
-        <div class="row">
-        <div class="caption col-md-2 col-md-offset-5">
+       
+        <div class="caption">
            
             <p>{Laddr::$siteSlogan|escape}</p>
             <p>
@@ -18,7 +18,7 @@
                 <small>or <a href="/mission">{_ "Learn More"}&hellip;</a></small>
             </p>
         </div>
-        </div>
+       
     </div>
 {/block}
 
