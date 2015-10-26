@@ -29,7 +29,7 @@
         <a href="{$rootUrl}?tag={$tagData.Handle}">{$tagData.Title}{if $tagData.itemsCount} <span class="badge pull-right">{$tagData.itemsCount|number_format}</span>{/if}</a>
     {/template}
 
-    <aside class="sidebar right meetups">
+    <aside class="sidebar left meetups">
 
         {if $currentMeetup}
             <article class="meetup meetup-current">
@@ -84,7 +84,7 @@
 
     </aside>
 
-    <nav class="sidebar left">
+    <nav class="sidebar right">
 
         <section class="tagsSummary projects">
             <a class="btn btn-success btn-mini pull-right" href="/projects/create">{_ "Add project"}</a>
