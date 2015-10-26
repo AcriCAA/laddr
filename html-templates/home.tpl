@@ -9,13 +9,15 @@
     {$dwoo.parent}
 
     <div class="hero-unit">
-        <div class="caption">
+        <div class="row">
+        <div class="caption col-md-2 col-md-offset-5">
            
             <p>{Laddr::$siteSlogan|escape}</p>
             <p>
                 <a href="{tif $.User ? '/projects' : '/register'}" class="btn btn-primary">{_ "Start Hacking"}</a>
                 <small>or <a href="/mission">{_ "Learn More"}&hellip;</a></small>
             </p>
+        </div>
         </div>
     </div>
 {/block}
