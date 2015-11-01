@@ -7,7 +7,7 @@
 
 {block header}
     {$dwoo.parent}
-    <div class="row">
+    <div id="top-row">
 
         <div class="hero-unit">
            

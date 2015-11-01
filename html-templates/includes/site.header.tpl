@@ -1,4 +1,5 @@
 {load_templates subtemplates/people.tpl}
+
 <nav class="navbar navbar-inverse navbar-fixed-top navbar-site">
     <section class="navbar-inner">
         <div class="container">

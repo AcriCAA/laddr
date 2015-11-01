@@ -6,7 +6,12 @@ body {
     padding-top: 40px; /* Padding at top of screen for fixed navbar as recommended in bootstrap docs */
 }
 
+#top-row {
 
+padding-top: 200 px;
+
+
+}
 
 nav a {
   padding-top: 20px !important;
@@ -28,7 +33,7 @@ nav .navbar-toggle {
     width: 5%;
     clear: both;
     float: left;
-    margin: 20px;
+    margin: 1%;
 
 }
 
