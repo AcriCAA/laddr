@@ -12,4 +12,5 @@
     ,'bootstrap/bootstrap-tooltip.js'
     ,'bootstrap-combobox.js'
     ,'bootstrap-tagsinput.js'
+    ,'nav.js'
 )}

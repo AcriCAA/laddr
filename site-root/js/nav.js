@@ -4,8 +4,8 @@ if(window.pageYOffset > 35 && !collapsedBar){  // collapsed size
     collapsedBar = true;
     //collapse bar
    
-    $('.navbar-brand').css('height', '50%');
-     $('.navbar-brand').css('width', '50%');
+    $('.brand').css('height', '50%');
+     $('.brand').css('width', '50%');
    
    
    
@@ -14,8 +14,8 @@ if(window.pageYOffset > 35 && !collapsedBar){  // collapsed size
 
   }else if(window.pageYOffset == 0){ //full size
     collapsedBar = false;
-    $('.navbar-brand').css('height', '100%');
-     $('.navbar-brand').css('width', '100%');
+    $('.brand').css('height', '100%');
+     $('.brand').css('width', '100%');
    
    
    
