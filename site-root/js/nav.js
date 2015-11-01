@@ -1,5 +1,7 @@
 
 
+console.log("nav js loaded");
+
 if(window.pageYOffset > 35 && !collapsedBar){  // collapsed size
     collapsedBar = true;
     //collapse bar
