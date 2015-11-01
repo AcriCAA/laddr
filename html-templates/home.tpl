@@ -10,7 +10,7 @@
   
         <div class="hero-unit">
            
-            <div class="caption">
+            <div class="caption" id="caption-marg">
                
                 <p class="text-center">{Laddr::$siteSlogan|escape}</p>
                 <p class="text-center">
