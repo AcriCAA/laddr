@@ -1,1 +1,1 @@
-<img alt="{Laddr::$siteName|escape}" src="{versioned_url img/logo.png}" height="25"><a class="navbar-brand" href="/">{Laddr::$siteName|escape}</a>
+<img class="nav-logo" alt="{Laddr::$siteName|escape}" src="{versioned_url img/logo.png}" height="25"><a class="navbar-brand" href="/"></a>
