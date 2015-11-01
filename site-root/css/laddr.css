@@ -34,8 +34,7 @@ body {
 
 #nav-logo {
 
-    height: 5%;
-    width: 5%;
+    width: 100px;
     clear: both;
     float: left;
     margin: 1%;
@@ -64,7 +63,7 @@ body {
 }
 
 .navbar .avatar {
-    height: 100px;
+    height: 18px;
 }
 
 @media (max-width: 979px) {
