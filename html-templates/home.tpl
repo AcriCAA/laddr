@@ -9,7 +9,7 @@
     {$dwoo.parent}
   
         <div class="hero-unit">
-           
+           <div class="caption-marg">
             <div class="caption">
                
                 <p class="text-center">{Laddr::$siteSlogan|escape}</p>
@@ -18,6 +18,7 @@
                     <small>or <a href="/mission">{_ "Learn More"}&hellip;</a></small>
                 </p>
             </div>
+        </div>
        
          </div>
 
