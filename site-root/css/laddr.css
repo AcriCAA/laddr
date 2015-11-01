@@ -18,13 +18,13 @@ body {
 
 }
 
-nav a {
+.navbar a {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
   font-size: 18px;
 }
 
-nav .navbar-toggle {
+.navbar-toggle {
   margin: 13px 15px 13px 0;
 }
 
@@ -43,21 +43,21 @@ nav .navbar-toggle {
 }
 
 
-nav.navbar.shrink {
+.navbar.shrink {
   min-height: 35px;
 }
 
-nav.shrink a {
+.shrink a {
   padding-top: 10px !important;
   padding-bottom: 10px !important;
   font-size: 15px;
 }
 
-nav.shrink .navbar-brand {
+.shrink .navbar-brand {
   font-size: 25px;
 }
 
-nav.shrink .navbar-toggle {
+.shrink .navbar-toggle {
   padding: 4px 5px;
   margin: 8px 15px 8px 0;
 
