@@ -2,7 +2,7 @@
 
 console.log("nav js loaded");
 
-
+$(document).ready(function(){
 if(window.pageYOffset > 35) {
   if ($(document).scrollTop() > 35) {
     $('nav').addClass('shrink');
@@ -14,3 +14,4 @@ if(window.pageYOffset > 35) {
      
   }
 });
+};
