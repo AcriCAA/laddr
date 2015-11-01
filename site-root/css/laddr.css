@@ -22,6 +22,12 @@ nav .navbar-toggle {
   font-size: 30px;
 }
 
+.nav-logo {
+
+height: 75%;
+width: 75%;
+
+}
 
 
 nav.navbar.shrink {
