@@ -64,7 +64,7 @@ body {
 }
 
 .navbar .avatar {
-    height: 18px;
+    height: 100px;
 }
 
 @media (max-width: 979px) {
