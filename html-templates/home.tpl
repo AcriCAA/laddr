@@ -7,8 +7,7 @@
 
 {block header}
     {$dwoo.parent}
-    <div id="top-row">
-
+  
         <div class="hero-unit">
            
             <div class="caption">
@@ -21,7 +20,7 @@
             </div>
        
          </div>
-    </div>
+
 {/block}
 
 {block content-wrapper-open}<div class="container-fluid">{/block}
