@@ -24,8 +24,11 @@ nav .navbar-toggle {
 
 .nav-logo {
 
-height: 75%;
-width: 75%;
+    height: 5%;
+    width: 5%;
+    clear: both;
+    float: left;
+    margin: 20px;
 
 }
 

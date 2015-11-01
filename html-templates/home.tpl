@@ -7,18 +7,20 @@
 
 {block header}
     {$dwoo.parent}
+    <div class="row">
 
-    <div class="hero-unit">
-       
-        <div class="caption">
+        <div class="hero-unit">
            
-            <p class="text-center">{Laddr::$siteSlogan|escape}</p>
-            <p class="text-center">
-                <a href="{tif $.User ? '/projects' : '/register'}" class="btn btn-primary">{_ "Start Hacking"}</a>
-                <small>or <a href="/mission">{_ "Learn More"}&hellip;</a></small>
-            </p>
-        </div>
+            <div class="caption">
+               
+                <p class="text-center">{Laddr::$siteSlogan|escape}</p>
+                <p class="text-center">
+                    <a href="{tif $.User ? '/projects' : '/register'}" class="btn btn-primary">{_ "Start Hacking"}</a>
+                    <small>or <a href="/mission">{_ "Learn More"}&hellip;</a></small>
+                </p>
+            </div>
        
+         </div>
     </div>
 {/block}
 
