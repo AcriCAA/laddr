@@ -12,6 +12,12 @@ body {
     margin-top: 5%;
 }
 
+.caption {
+
+margin-top: 50 px;
+
+}
+
 nav a {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
