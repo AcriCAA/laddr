@@ -15,8 +15,8 @@ if(window.pageYOffset > 35 && !collapsedBar)
 
   }else if(window.pageYOffset == 0){ //full size
     collapsedBar = false;
-    $('.brand').css('height', '50%');
-     $('.brand').css('width', '50%');
+    $('.nav-logo').css('height', '50%');
+     $('.nav-logo').css('width', '50%');
    
    
    
