@@ -13,5 +13,5 @@ if(window.pageYOffset > 35) {
    $('img#nav-logo').animate({width: "58px"},200,function(){});
      
   }
-});
+// });
 };
