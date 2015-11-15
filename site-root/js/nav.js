@@ -24,7 +24,7 @@ console.log("nav js loaded");
 $(document).ready(function(){
 
 
-var collapsedBar = false; 
+collapsedBar = false; 
 
  if(window.pageYOffset > 35 && !collapsedBar){  // collapsed size
           collapsedBar = true;
