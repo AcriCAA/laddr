@@ -23,9 +23,9 @@
 
 $(document).ready(function(){
 
-collapsedBar = false; 
+var collapsedBar = false; 
 
- if(window.pageYOffset > 35 ){  // collapsed size
+ if(window.pageYOffset > 35 && collapsedBar == false){  // collapsed size
          collapsedBar = true;
           //collapse bar
          
@@ -36,8 +36,8 @@ collapsedBar = false;
 console.log("greater than ");
         }
 
-        else if(window.pageYOffset == 0){ //full size
-        collapsedBar = false;
+        if(window.pageYOffset == 0){ //full size
+         collapsedBar = false;
          
          $('img#nav-logo').animate({width: "100px"},300,function(){});
 
