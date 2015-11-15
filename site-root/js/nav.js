@@ -44,7 +44,7 @@ collapsedBar = false;
 
         }
       
-    }
+}); 
 
 
 // just changed again
