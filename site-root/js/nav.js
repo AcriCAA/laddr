@@ -26,7 +26,7 @@ $(document).ready(function(){
 
 collapsedBar = false; 
 
- if(window.pageYOffset > 35 && !collapsedBar){  // collapsed size
+ if(window.pageYOffset > 15 && !collapsedBar){  // collapsed size
           collapsedBar = true;
           //collapse bar
          
