@@ -35,7 +35,9 @@ var collapsedBar = false;
          // document.getElementById('span1').innerHTML='some value...';
   
 
-        }else if(window.pageYOffset == 0){ //full size
+        }
+
+        else if(window.pageYOffset == 0){ //full size
           collapsedBar = false;
          
          $('img#nav-logo').animate({width: "100px"},300,function(){});
@@ -45,6 +47,6 @@ var collapsedBar = false;
     }
 
 
-// just changed this
+// just changed again
 
    
