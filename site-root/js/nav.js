@@ -24,21 +24,21 @@ console.log("nav js loaded");
 $(document).ready(function(){
 
 
-collapsedBar = false; 
+//collapsedBar = false; 
 
- if(window.pageYOffset > 15 && !collapsedBar){  // collapsed size
-          collapsedBar = true;
+ if(window.pageYOffset > 20 ){  // collapsed size
+  //        collapsedBar = true;
           //collapse bar
          
           $('img#nav-logo').animate({width: "20px"},300,function(){});
           
          // document.getElementById('span1').innerHTML='some value...';
   
-console.log("greater than 15");
+console.log("greater than ");
         }
 
         else if(window.pageYOffset == 0){ //full size
-          collapsedBar = false;
+    //      collapsedBar = false;
          
          $('img#nav-logo').animate({width: "100px"},300,function(){});
 
