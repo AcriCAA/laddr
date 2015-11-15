@@ -34,13 +34,15 @@ collapsedBar = false;
           
          // document.getElementById('span1').innerHTML='some value...';
   
-
+console.log("greater than 15");
         }
 
         else if(window.pageYOffset == 0){ //full size
           collapsedBar = false;
          
          $('img#nav-logo').animate({width: "100px"},300,function(){});
+
+         console.log("zero");
 
         }
       
