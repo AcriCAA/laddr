@@ -46,4 +46,6 @@ var collapsedBar = false;
 
 }
 
+// just changed this shit 
+
    
