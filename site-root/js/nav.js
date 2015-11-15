@@ -50,12 +50,12 @@
 
 $(window).scroll(function() {
   if ($(document).scrollTop() > 50) {
-      $('img#nav-logo').animate({width: "20px"},300,function(){});
+      $('img#nav-logo').animate({width: "20px"},10,function(){});
       console.log("greater than ");
  
   } else {
  
-         $('img#nav-logo').animate({width: "100px"},300,function(){});
+         $('img#nav-logo').animate({width: "100px"},10,function(){});
          console.log("shrunk");
 
   }
