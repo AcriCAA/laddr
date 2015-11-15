@@ -21,31 +21,45 @@
 // });
 
 
-$(document).ready(function(){
+// $(document).ready(function(){
 
-var collapsedBar = false; 
+// var collapsedBar = false; 
 
- if(window.pageYOffset > 35 && collapsedBar == false){  // collapsed size
-         collapsedBar = true;
-          //collapse bar
+//  if(window.pageYOffset > 35 && collapsedBar == false){  // collapsed size
+//          collapsedBar = true;
+//           //collapse bar
          
-          $('img#nav-logo').animate({width: "20px"},300,function(){});
+//           $('img#nav-logo').animate({width: "20px"},300,function(){});
           
-         // document.getElementById('span1').innerHTML='some value...';
+//          // document.getElementById('span1').innerHTML='some value...';
   
-console.log("greater than ");
-        }
+// console.log("greater than ");
+//         }
 
-        if(window.pageYOffset == 0){ //full size
-         collapsedBar = false;
+//         if(window.pageYOffset == 0){ //full size
+//          collapsedBar = false;
          
-         $('img#nav-logo').animate({width: "100px"},300,function(){});
+//          $('img#nav-logo').animate({width: "100px"},300,function(){});
 
-         console.log("zero");
+//          console.log("zero");
 
-        }
+//         }
       
-}); 
+// }); 
+
+
+$(window).scroll(function() {
+  if ($(document).scrollTop() > 50) {
+      $('img#nav-logo').animate({width: "20px"},300,function(){});
+      console.log("greater than ");
+ 
+  } else {
+ 
+         $('img#nav-logo').animate({width: "100px"},300,function(){});
+         console.log("shrunk");
+
+  }
+});
 
 
 
