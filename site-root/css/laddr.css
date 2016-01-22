@@ -1,3 +1,7 @@
+
+
+
+
 /**
 * Common site design elements
 */
@@ -18,7 +22,7 @@ body {
 
 }*/
 
-.navbar a {
+/*.navbar a {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
   font-size: 18px;
@@ -74,7 +78,7 @@ body {
     .navbar-fixed-top {
         margin-bottom: 0;
     }
-}
+}*/
 
 /* 3-column layout from http://stackoverflow.com/questions/9269312/three-column-fluid-layout-with-twitter-bootstrap-clearfixes-messing-things-up */
 .container-fluid > .sidebar {
