@@ -19,7 +19,7 @@
     </header>
 
 
-        <div class="hero-unit">
+       <!--  <div class="hero-unit">
            <div class="caption-marg">
             <div class="caption">
                
@@ -31,7 +31,7 @@
             </div>
         </div>
     
-         </div>
+         </div> -->
 
 {/block}
 
