@@ -181,7 +181,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url({./img/cover.png});
+    background-image: url({/img/cover.jpg});
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -201,7 +201,7 @@ header .header-content .header-content-inner h1 {
     margin-bottom: 0;
     text-transform: uppercase;
     font-weight: 700;
-    color:#ffffff;
+    color:#ff2205;
 }
 
 header .header-content .header-content-inner hr {
