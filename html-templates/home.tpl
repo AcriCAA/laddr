@@ -12,8 +12,9 @@
         <div class="header-content">
             <div class="header-content-inner">
                 <h1>{Laddr::$siteSlogan|escape}</h1>
-               
+               <p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">{_ "Start Hacking"}</a>
+               </p>
             </div>
         </div>
     </header>
