@@ -44,7 +44,7 @@
 
    
 
-    <nav class="sidebar right">
+<!--     <nav class="sidebar right">
 
         <section class="tagsSummary projects">
             <a class="btn btn-success btn-mini pull-right" href="/projects/create">{_ "Add project"}</a>
@@ -210,6 +210,6 @@
                 <a href="/blog" class="btn">{_ "Browse all blog posts"}</a>
             </div> <!-- .row-fluid -->
         </section>
-    </section>
+    </section> -->
 {/block}
 {block content-wrapper-close}</div>{/block}
