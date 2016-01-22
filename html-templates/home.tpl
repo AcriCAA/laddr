@@ -202,14 +202,14 @@
                 {foreachelse}
                     <em>{_ "No project updates have been posted on this site yet."}</em>
                 {/foreach}
-            </div> <!-- .row-fluid -->
+            </div> 
 
-            <div class="row-fluid">
+        <div class="row-fluid">
                 <a href="/project-updates" class="btn">{_ "Browse all project updates"}</a>
                 <a href="/project-buzz" class="btn">{_ "Browse all project buzz"}</a>
                 <a href="/blog" class="btn">{_ "Browse all blog posts"}</a>
-            </div> <!-- .row-fluid -->
+            </div> 
         </section>
-    </section> -->
+    </section> --> 
 {/block}
 {block content-wrapper-close}</div>{/block}
