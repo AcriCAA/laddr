@@ -8,6 +8,17 @@
 {block header}
     {$dwoo.parent}
   
+   <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>{Laddr::$siteSlogan|escape}</h1>
+                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">{_ "Start Hacking"}</a>
+            </div>
+        </div>
+    </header>
+
+
         <div class="hero-unit">
            <div class="caption-marg">
             <div class="caption">
