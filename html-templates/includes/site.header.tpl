@@ -18,7 +18,7 @@
                 <span class="icon-bar"></span>
             </a>
  
-          <!-- {include includes/site.brand.tpl} -->
+          {include includes/site.brand.tpl}
 
             <div class="nav-collapse collapse">
                 <ul class="nav">
