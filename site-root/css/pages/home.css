@@ -74,14 +74,14 @@ background-color: rgba(255,255,255,0.6);
     color: rgba(255,255,255,.7);
 }
 
-/*section {
-    padding: 100px 0;
-}*/
-
-#section_block {
-
+section {
     padding: 100px 0;
 }
+
+/*#section_block {
+
+    padding: 100px 0;
+}*/
 
 aside {
     padding: 50px 0;
