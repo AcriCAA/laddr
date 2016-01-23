@@ -43,7 +43,8 @@
                 </div>
             </div>
         </div>
-        <div class="container" name="reg">
+        <a name="reg"></a>
+        <div class="container" >
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
