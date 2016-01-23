@@ -13,7 +13,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">include includes/site.brand.tpl}
+</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
