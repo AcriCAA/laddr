@@ -30,10 +30,10 @@
     </head>
 
     {* using the responseID as a class on the body can help with subpage-specific styles *}
- <body class="{block 'body-class'}{str_replace('/', '_', $.responseId)}-tpl{/block}" id="page-top"> 
+ <!-- <body class="{block 'body-class'}{str_replace('/', '_', $.responseId)}-tpl{/block}" id="page-top"> -->  <body class="{block 'body-class'}{str_replace('/', '_', $.responseId)}-tpl{/block}" id="page-top">
 
    <body id="page-top">
-                           <!-- added --> {block content-wrapper-open}<div class="container-fluid">{/block}
+                         
         {block header}
             {include includes/site.header.tpl}
         {/block}
@@ -56,7 +56,7 @@
 
         {* enables site developers to dump the internal session log here by setting ?log_report=1 on any page *}
         {log_report}
-                        <!-- added --> {block content-wrapper-close}</div>{/block}
+                        
     </body>
 
 </html>
