@@ -26,8 +26,8 @@
                     <h2 class="section-heading">Come Hack With Us</h2>
                     <h3>Next Meetup:</h3>
                    
-                    <p class="text-faded">January 27, 2015</p>
-                    <p class="text-faded">@Devnuts</p>
+                    <h2>January 27, 2015</h2>
+                    <h3 class="text-faded"><a href="https://goo.gl/maps/6xMY4tWV5jN2" target="_blank">@Devnuts</h3>
                     <a href="#" class="btn btn-default btn-xl">RSVP on Meetup.com</a>
                 </div>
             </div>
