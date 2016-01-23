@@ -28,7 +28,7 @@
                    
                     <h2>January 27, 2015</h2>
                     <h3 class="text-faded"><a href="https://goo.gl/maps/6xMY4tWV5jN2" target="_blank">@Devnuts</h3>
-                    <a href="#" class="btn btn-default btn-xl">RSVP on Meetup.com</a>
+                    <a href="#reg" class="btn btn-default btn-xl">RSVP on Meetup.com</a>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" name="reg">
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
