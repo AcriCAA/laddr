@@ -19,7 +19,7 @@
         </div>
     </header>
 
-     <section class="bg-primary" id="section_block">
+     <section class="bg-primary">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
