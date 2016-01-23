@@ -1,5 +1,13 @@
 
+@media (max-width:767px) {
+.navbar-fixed-top {
 
+margin-left: 0px;
+margin-right:0px;
+
+}
+
+} /*trying to override -20px margins on mobile*/
 
 
 /**
