@@ -50,7 +50,7 @@
                        
                         <h3>Register</h3>
                         <p class="text-muted">Registering with Code for Philly is your first step to join the community and start coding</p>
-                        <a href="#" class="btn btn-default">Register</a>
+                        <a href="#" class="btn btn-primary btn-xl">Register</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -58,7 +58,7 @@
                        
                         <h3>Projects</h3>
                         <p class="text-muted">There are over 150 projects you can join to learn or flex your coding skills.</p>
-                        <a href="#" class="btn btn-default">Browse Projects</a>
+                        <a href="#" class="btn btn-primary btn-xl">Browse Projects</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -66,7 +66,7 @@
                        
                         <h3>About Civic Hacking</h3>
                         <p class="text-muted">Civic hacking uses technology to improve civic life</p>
-                          <a href="#" class="btn btn-default">Learn More</a>
+                          <a href="#" class="btn btn-primary btn-xl">Learn More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -74,7 +74,7 @@
                        
                         <h3>Workshops</h3>
                         <p class="text-muted">You can attend or host a coding workshop on the first Tuesday of every month</p>
-                         <a href="#" class="btn btn-default">Learn More</a>
+                         <a href="#" class="btn btn-primary btn-xl">Learn More</a>
                     </div>
                 </div>
 
