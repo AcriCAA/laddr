@@ -50,7 +50,7 @@
                     <div class="service-box">
                        
                         <h3>Register</h3>
-                        <p class="text-muted">Registering with Code for Philly is your first step to join the community and start coding</p>
+                        <p class="text-muted" id="height-block">Registering with Code for Philly is your first step to join the community and start coding</p>
                         <p><a href="#" class="btn btn-primary btn-xl">Register</a></p>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                     <div class="service-box">
                        
                         <h3>Projects</h3>
-                        <p class="text-muted">There are over 150 projects you can join to learn or flex your coding skills.</p>
+                        <p class="text-muted" id="height-block">There are over 150 projects you can join to learn or flex your coding skills.</p>
                         <p><a href="#" class="btn btn-primary btn-xl">Browse Projects</a></p>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                     <div class="service-box">
                        
                         <h3>About Civic Hacking</h3>
-                        <p class="text-muted">Civic hacking uses technology to improve civic life</p>
+                        <p class="text-muted" id="height-block">Civic hacking uses technology to improve civic life</p>
                          <p> <a href="#" class="btn btn-primary btn-xl">Learn More</a></p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                     <div class="service-box">
                        
                         <h3>Workshops</h3>
-                        <p class="text-muted">You can attend or host a coding workshop on the first Tuesday of every month</p>
+                        <p class="text-muted" id="height-block">You can attend or host a coding workshop on the first Tuesday of every month</p>
                          <p><a href="#" class="btn btn-primary btn-xl">Learn More</a></p>
                     </div>
                 </div>

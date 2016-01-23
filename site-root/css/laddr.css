@@ -13,9 +13,15 @@ margin-right:10px;
 
 }
 
+
+
 } /*trying to override -20px margins on mobile*/
 
+#height-block {
 
+  min-height: 70px;
+
+}
 /**
 * Common site design elements
 */
