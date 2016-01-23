@@ -30,14 +30,14 @@
     </head>
 
     {* using the responseID as a class on the body can help with subpage-specific styles *}
-    <body class="{block 'body-class'}{str_replace('/', '_', $.responseId)}-tpl{/block}">
+    <body class="{block 'body-class'}{str_replace('/', '_', $.responseId)}-tpl{/block}" id="page-top">
         {block header}
             {include includes/site.header.tpl}
         {/block}
 
-        {block content-wrapper-open}<div class="container">{/block}
+        {block content-wrapper-open}<!-- <div class="container"> -->{/block}
         {block content}{/block}
-        {block content-wrapper-close}</div>{/block}
+        {block content-wrapper-close}<!-- </div> -->{/block}
 
         {block footer}
             {include includes/site.footer.tpl}
