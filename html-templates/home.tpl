@@ -228,4 +228,4 @@
         </section>
     </section> --> 
 {/block}
-{block content-wrapper-close}<!-- </div> -->{/block}
+{block content-wrapper-close}</div>{/block}
