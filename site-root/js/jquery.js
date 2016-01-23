@@ -6137,23 +6137,23 @@ if ( window.getComputedStyle ) {
 			// Chrome < 17 and Safari 5.0 uses "computed value" instead of "used value" for margin-right
 			// Safari 5.1.7 (at least) returns percentage for a larger set of values, but width seems to be reliably pixels
 			// this is against the CSSOM draft spec: http://dev.w3.org/csswg/cssom/#resolved-values
-		// 	if ( rnumnonpx.test( ret ) && rmargin.test( name ) ) {
+			if ( rnumnonpx.test( ret ) && rmargin.test( name ) ) {
 
-		// 		// Remember the original values
-		// 		width = style.width;
-		// 		minWidth = style.minWidth;
-		// 		maxWidth = style.maxWidth;
+				// Remember the original values
+				width = style.width;
+				minWidth = style.minWidth;
+				maxWidth = style.maxWidth;
 
-		// 		// Put in the new values to get a computed value out
-		// 		style.minWidth = style.maxWidth = style.width = ret;
-		// 		ret = computed.width;
+				// Put in the new values to get a computed value out
+				style.minWidth = style.maxWidth = style.width = ret;
+				ret = computed.width;
 
-		// 		// Revert the changed values
-		// 		style.width = width;
-		// 		style.minWidth = minWidth;
-		// 		style.maxWidth = maxWidth;
-		// 	}
-		// }
+				// Revert the changed values
+				style.width = width;
+				style.minWidth = minWidth;
+				style.maxWidth = maxWidth;
+			}
+		}
 
 		// Support: IE
 		// IE returns zIndex value as an integer.
