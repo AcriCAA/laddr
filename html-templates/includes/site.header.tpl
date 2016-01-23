@@ -13,7 +13,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{include includes/site.brand.tpl}  {include includes/site.nav-userlinks.tpl}
+                <a class="navbar-brand page-scroll" href="#page-top">{include includes/site.brand.tpl}
 </a>
             </div>
 
