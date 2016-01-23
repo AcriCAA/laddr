@@ -38,7 +38,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Build Stuff at CfP</h2>
+                    <h2 class="section-heading">Get Hacking</h2>
                    
                 </div>
             </div>
@@ -58,14 +58,14 @@
                     <div class="service-box">
                        
                         <h3>Projects</h3>
-                        <p class="text-muted">There are over 150 projects you can join to learn or flex your coding skills.</p>
+                        <p class="text-muted">There are over 150 projects you can join to learn to code or flex your coding skills.</p>
                         <p><a href="#" class="btn btn-primary btn-xl" id="btn-bttm-marg">Browse Projects</a></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                        
-                        <h3>About Civic Hacking</h3>
+                        <h3>Civic Hacking</h3>
                         <p class="text-muted">Civic hacking uses technology to improve civic life</p>
                          <p> <a href="#" class="btn btn-primary btn-xl" id="btn-bttm-marg">Learn More</a></p>
                     </div>
