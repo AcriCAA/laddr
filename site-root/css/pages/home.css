@@ -1,11 +1,23 @@
 /*New Homepage CSS by @AcriCAA*/
 
+.service-box {
+
+border: 1px solid #d7d7d7;
+padding: 3px;
+
+}
+
+border: 1px solid #d7d7d7;
+
+}
 
 /*!
  * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+
+
 
 html,
 body {
@@ -264,9 +276,6 @@ header .header-content .header-content-inner p {
 .service-box {
     margin: 50px auto 0;
     max-width: 400px;
-    border-width: 0 0 1px;
-    border-color: #e7e7e7;
-    padding: 3px;
 }
 
 @media(min-width:992px) {
