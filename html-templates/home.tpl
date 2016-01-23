@@ -13,12 +13,12 @@
             <div class="header-content-inner">
                 <h1>MAKING OUR COMMUNITY A BETTER PLACE TO LIVE, WORK, AND PLAY THROUGH TECHNOLOGY.</h1>
                <p>
-                <a href="#" class="btn btn-primary btn-xl">Start Hacking</a>
+                <a href="#reg" class="btn btn-primary btn-xl">Start Hacking</a>
                </p>
             </div>
         </div>
     </header>
-
+      <a name="reg"></a>
      <section class="bg-primary">
         <div class="container">
             <div class="row">
@@ -28,7 +28,7 @@
                    
                     <h2>January 27, 2015</h2>
                     <h3 class="text-faded"><a href="https://goo.gl/maps/6xMY4tWV5jN2" target="_blank">@Devnuts</h3>
-                    <a href="#reg" class="btn btn-default btn-xl">RSVP on Meetup.com</a>
+                    <a href="#" class="btn btn-default btn-xl">RSVP on Meetup.com</a>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <a name="reg"></a>
+      
         <div class="container" >
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
