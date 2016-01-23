@@ -215,11 +215,12 @@ header .header-content .header-content-inner h1 {
     text-transform: uppercase;
     font-weight: 700;
     color:#cf1b41;
+    font-size: 40px;
 }
 
-header .header-content .header-content-inner hr {
+/*header .header-content .header-content-inner hr {
     margin: 30px auto;
-}
+}*/
 
 header .header-content .header-content-inner p {
     margin-bottom: 50px;

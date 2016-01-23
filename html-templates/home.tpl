@@ -13,7 +13,7 @@
             <div class="header-content-inner">
                 <h1>MAKING OUR COMMUNITY A BETTER PLACE TO LIVE, WORK, AND PLAY THROUGH TECHNOLOGY.</h1>
                <p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Start Hacking</a>
+                <a href="#" class="btn btn-primary btn-xl">Start Hacking</a>
                </p>
             </div>
         </div>
