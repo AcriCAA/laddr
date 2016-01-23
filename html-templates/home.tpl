@@ -10,7 +10,7 @@
   
    <header>
         <div class="header-content">
-            <div class="header-content-inner" id="bg-fuzz">
+            <div class="header-content-inner">
                 <h1>{Laddr::$siteSlogan|escape}</h1>
                <p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">{_ "Start Hacking"}</a>
@@ -23,10 +23,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
-                    <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a href="#" class="btn btn-default btn-xl">Get Started!</a>
+                    <h2 class="section-heading">Come Hack With Us</h2>
+                    <h3>Next Meetup:</h3>
+                   
+                    <p class="text-faded">January 27, 2015</p>
+                    <p class="text-faded">@Devnuts</p>
+                    <a href="#" class="btn btn-default btn-xl">RSVP on Meetup.com</a>
                 </div>
             </div>
         </div>
