@@ -7,6 +7,12 @@ margin-right:10px;
 
 }
 
+.navbar-header {
+
+  min-height: 150px;
+
+}
+
 } /*trying to override -20px margins on mobile*/
 
 
