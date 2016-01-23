@@ -10,7 +10,7 @@
   
    <header>
         <div class="header-content">
-            <div class="header-content-inner">
+            <div class="header-content-inner" id="bg-fuzz">
                 <h1>{Laddr::$siteSlogan|escape}</h1>
                <p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">{_ "Start Hacking"}</a>
@@ -19,7 +19,7 @@
         </div>
     </header>
 
-     <section id="block">
+     <section class="bg-primary" id="section_block">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
