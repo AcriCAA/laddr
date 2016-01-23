@@ -55,12 +55,12 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #399fd3;
 }
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: #6D6E71;
 }
 
 .text-faded {
@@ -70,6 +70,11 @@ p {
 /*section {
     padding: 100px 0;
 }*/
+
+#section_block {
+
+    padding: 100px 0;
+}
 
 aside {
     padding: 50px 0;
