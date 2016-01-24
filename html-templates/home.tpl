@@ -11,7 +11,8 @@
    <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>MAKING OUR COMMUNITY A BETTER PLACE TO LIVE, WORK, AND PLAY THROUGH TECHNOLOGY.</h1>
+                <h1>CODE. YOUR. COMMUNITY.</h1>
+                <h2>Make Philly a better place to live, work and play through technlogy.</h2>
                <p>
                 <a href="#reg" class="btn btn-primary btn-xl">Start Hacking</a>
                </p>
@@ -38,7 +39,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Get Hacking</h2>
+                    <h2 class="section-heading">Join the Civic Tech Movement</h2>
                    
                 </div>
             </div>
@@ -46,35 +47,37 @@
       
         <div class="container" >
             <div class="row">
+                 <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                       
+                        <h3>Civic Hacking</h3>
+                        <p class="text-muted">Civic hacking uses technology to improve civic life.</p>
+                         <p> <a href="https://codeforphilly.org/mission" class="btn btn-primary btn-xl" id="btn-bttm-marg">Learn More</a></p>
+                    </div>
+                </div>
+
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                        
-                        <h3>Register</h3>
-                        <p class="text-muted">Registering with Code for Philly is your first step to join the community and start coding</p>
+                        <h3>Commit</h3>
+                        <p class="text-muted">Registering with Code for Philly is the first step towards making a difference.</p>
                         <p><a href="#" class="btn btn-primary btn-xl" id="btn-bttm-marg">Register</a></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                        
-                        <h3>Projects</h3>
-                        <p class="text-muted">There are over 150 projects you can join to learn to code or flex your coding skills.</p>
-                        <p><a href="#" class="btn btn-primary btn-xl" id="btn-bttm-marg">Browse Projects</a></p>
+                        <h3>Code</h3>
+                        <p class="text-muted">There are over 150 projects you can join to learn to code or flex your existing coding skills.</p>
+                        <p><a href="https://codeforphilly.org/projects" class="btn btn-primary btn-xl" id="btn-bttm-marg">Browse Projects</a></p>
                     </div>
                 </div>
+               
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                        
-                        <h3>Civic Hacking</h3>
-                        <p class="text-muted">Civic hacking uses technology to improve civic life</p>
-                         <p> <a href="#" class="btn btn-primary btn-xl" id="btn-bttm-marg">Learn More</a></p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                       
-                        <h3>Workshops</h3>
-                        <p class="text-muted">You can attend or host a coding workshop on the first Tuesday of every month</p>
+                        <h3>Need a Push?</h3>
+                        <p class="text-muted">You can attend or host a coding workshop on the first Tuesday of every month.</p>
                          <p><a href="#" class="btn btn-primary btn-xl" id="btn-bttm-marg">Learn More</a></p>
                     </div>
                 </div>
