@@ -221,7 +221,7 @@ header {
 header .header-content {
     position: relative;
     width: 100%;
-    padding: 100px 15px;
+    padding: 100px 0px;
     text-align: center;
     background-color: rgba(70, 70, 70, 0.83);
   
