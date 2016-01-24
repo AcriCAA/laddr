@@ -12,7 +12,7 @@
         <div class="header-content">
             <div class="header-content-inner">
                 <h1>CODE. YOUR. COMMUNITY.</h1>
-                <h2>Make Philly a better place to live, work and play through technlogy.</h2>
+                <h2>Make Philly a better place to live, work and play through technology.</h2>
                <p>
                 <a href="#reg" class="btn btn-primary btn-xl">Start Hacking</a>
                </p>
