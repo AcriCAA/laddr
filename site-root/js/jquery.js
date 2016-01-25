@@ -3582,7 +3582,7 @@ jQuery(function() {
 			// Prevent IE 6 from affecting layout for positioned elements #11048
 			// Prevent IE from shrinking the body in IE 7 mode #12869
 			// Support: IE<8
-			// body.style.zoom = 1;  ca commenting this out to see if it removes zoom
+			// body.style.zoom = 1;  ca commenting this out
 		}
 	}
 
@@ -6778,7 +6778,7 @@ if ( !support.opacity ) {
 
 			// IE has trouble with opacity if it does not have layout
 			// Force it by setting the zoom level
-			// style.zoom = 1; ca commenting this out
+			style.zoom = 1; 
 
 			// if setting opacity to 1, and no other filters exist - attempt to remove filter attribute #6652
 			// if value === "", then remove inline opacity #12685
@@ -7158,7 +7158,7 @@ function defaultPrefilter( elem, props, opts ) {
 			if ( !support.inlineBlockNeedsLayout || defaultDisplay( elem.nodeName ) === "inline" ) {
 				style.display = "inline-block";
 			} else {
-				// style.zoom = 1; ca commenting this out
+				style.zoom = 1; 
 			}
 		}
 	}
