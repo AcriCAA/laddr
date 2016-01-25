@@ -3582,8 +3582,7 @@ jQuery(function() {
 			// Prevent IE 6 from affecting layout for positioned elements #11048
 			// Prevent IE from shrinking the body in IE 7 mode #12869
 			// Support: IE<8
-			// body.style.zoom = 1;  ca commenting this out
-		}
+			body.style.zoom = 1;  
 	}
 
 	body.removeChild( container );
