@@ -21,7 +21,6 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                      {include includes/site.nav-sitelinks.tpl}
-               <!--       {include includes/site.nav-userlinks.tpl} -->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
