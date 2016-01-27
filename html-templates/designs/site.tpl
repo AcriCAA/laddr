@@ -29,7 +29,7 @@
         {/block}
     </head>
 
-    {* using the responseID as a class on the body can help with subpage-specific styles *}
+    <!-- {* using the responseID as a class on the body can help with subpage-specific styles *} -->
  <body class="{block 'body-class'}{str_replace('/', '_', $.responseId)}-tpl{/block}" id="page-top">
                          
         {block header}
